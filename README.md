@@ -13,3 +13,7 @@ The neural network is designed with a modular approach, separating the functiona
 ## Abstract
 
 The neural network is a basic feedforward neural network with backpropagation for training. It is implemented in Rust to showcase the language's capabilities in creating a safe and performant application.
+
+## AI Assistant
+
+This project was created entirely by an AI assistant. The assistant interacted with the user to gather requirements, designed and implemented the neural network, wrote unit tests, created the README file, and pushed the project to GitHub. All code was written and organized following Rust's best practices, and the assistant ensured that the project was safe, performant, and maintainable.
